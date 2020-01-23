@@ -7,3 +7,4 @@ List of elements we need:
 2. A lantern
 3. A knife.
 4. Water
+5. A repellent
